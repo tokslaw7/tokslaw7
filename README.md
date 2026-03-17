@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm a passionate Engineer committed to building im
 ![EA](https://github.com/user-attachments/assets/c81e5d36-1ad8-4266-aee4-0df4d448c49e)
 
 ---
+TOGAF Certified!
+---
 ## 🚀 Sneak Peak About Me
 
 I'm enthusiastic about creating elegant code and solving complex problems. With a focus on clean architecture and best practices, I strive to build software that makes a difference.
