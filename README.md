@@ -30,6 +30,8 @@ I'm enthusiastic about creating elegant code and solving complex problems. With 
 - Expo
 - Ionic
 - React
+- Vite
+- NextJs
 - Node.js
 - Git
 
