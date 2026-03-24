@@ -29,7 +29,7 @@ I'm enthusiastic about creating elegant code and solving complex problems. With 
 - Node.js
 - Git
 ### DevOps
-- Terrform
+- Terraform
 - Kubernetes
 - Kafka
 - Ansible
